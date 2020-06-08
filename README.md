@@ -1,7 +1,7 @@
 # Portfolio Website.
 Web Portfolio to showcase projects and skills in better manner. 
 
-###### https://usmanilamdin.github.io.github.io/
+###### https://usmanilamdin.github.io/
 
 ------------------------------------------------------------------
 To setup the project on your local machine:
